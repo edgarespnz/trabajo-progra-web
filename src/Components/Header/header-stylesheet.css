@@ -1,0 +1,24 @@
+.nav{
+    justify-content:center;
+}
+
+.nav-link{
+    font-family: "helvetica",sans-serif;
+    font-weight: 600;
+    color:white;
+}
+
+.brand-image{
+    margin: 250px;
+}
+
+img.d-inline-block.align-text-top {
+    margin-right: 30px;
+}
+
+
+
+
+
+
+

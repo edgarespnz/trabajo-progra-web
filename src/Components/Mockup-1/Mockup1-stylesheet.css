@@ -1,0 +1,39 @@
+.container-mockup-1{
+    background-color: #191970;
+    width: 600px;
+    height: 480px;
+    margin-bottom: 100px;
+
+    
+}
+.main-container-mockup-1{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h2{
+    margin-bottom: 30px;
+    font-style: italic;
+    font-weight: 900;
+    text-align: center;
+    color:white;
+}
+.form-control{
+    font-size: 20px;
+    background: rgba(0, 0, 0, 0);
+    
+
+}
+button.btn.btn-primary.btn-lg.btn-block {
+    margin-top: 20px;
+    width: 550px;
+    margin-right: 100px;
+    text-align: center;
+    margin-inline-start: 20px;
+    margin-inline-end: 10px;
+    
+    
+    
+}
