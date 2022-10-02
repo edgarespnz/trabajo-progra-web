@@ -4,6 +4,7 @@ import Footer from './Components/Footer/Footer';
 import Header from './Components/Header/Header';
 import Mockup1 from './Components/Mockup-1/Mockup1';
 import Mockup2 from './Components/Mockup-2/Mockup2';
+import Mockup3 from './Components/Mockup-3/Mockup3';
 import Mockup4 from './Components/Mockup-4/Mockup4';
 import Mockup11 from './Components/Mockup-11/Mockup11';
 import Mockup12 from './Components/Mockup-12/Mockup12';
@@ -21,7 +22,7 @@ root.render(
 
         <Route path='/mockup-1' element={<Mockup1/>} />
         <Route path='/mockup-2' element={<Mockup2/>}/>
-        
+        <Route path='/mockup-3' element={<Mockup3/>} />
 
         <Route path='/mockup-4' element={<Mockup4/>} />
 
