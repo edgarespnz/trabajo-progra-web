@@ -2,6 +2,8 @@ import React from "react";
 import "./header-stylesheet.css";
 
 function Header(props) {
+    
+
     return (
         //Aquí se define el header completo , izquierda , centro y derecha separados con su div respectivo
         
