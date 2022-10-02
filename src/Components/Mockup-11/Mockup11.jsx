@@ -1,7 +1,7 @@
 import React from "react";
 import "./mockup11-stylesheet.css"
 import Pc_Components from "./Pc_Components";
-import Table from "./Table";
+
 import Total from "./Total";
 
 
