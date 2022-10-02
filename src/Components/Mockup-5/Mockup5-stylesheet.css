@@ -1,0 +1,50 @@
+#buttons{
+    display:inline-block;
+    margin-right: 15px;
+    border-radius: 5px;
+}
+
+/*Botones lado izquierdo*/
+
+.button1{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    border-radius: 5px;
+    background-color: white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.button2{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    border-radius: 5px;
+    background-color: white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.button3{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    border-radius: 5px;
+    background-color: white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+/* fin Botones lado izquierdo*/
+
+#sideContent{
+    border-radius: 10px;
+    background-color: white;
+    height: 800px;
+    width: 800px;
+    max-width: 1200px;
+}

@@ -5,9 +5,12 @@ import Header from './Components/Header/Header';
 import Mockup1 from './Components/Mockup-1/Mockup1';
 import Mockup2 from './Components/Mockup-2/Mockup2';
 import Mockup4 from './Components/Mockup-4/Mockup4';
+import Mockup5 from './Components/Mockup-5/Mockup5';
+import Mockup21 from './Components/Mockup-21/Mockup21';
 import './index.css';
 
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
+
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -22,6 +25,7 @@ root.render(
         
 
         <Route path='/mockup-4' element={<Mockup4/>} />
+        <Route path='/mockup-21' element={<Mockup21/>}/>
 
       </Routes>
     </BrowserRouter>

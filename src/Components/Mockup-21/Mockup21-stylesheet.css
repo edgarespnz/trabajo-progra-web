@@ -1,0 +1,46 @@
+#video{
+ 
+    margin-bottom: 10px;
+
+}
+
+#video2{
+
+    margin-bottom: 10px;
+
+}
+.card{
+    margin-left: 200px;
+    height: 680px;
+    width: min-content;
+}
+.card-text{
+    font-size: 1.20em;
+    text-align: center;
+}
+.background-autor-1 {
+    color: #d93e4d;
+    position: absolute;
+    font-size: 5em;
+    left: 0;
+    bottom: 250px;
+    line-height: 1;
+    white-space: nowrap;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    opacity: .15;
+    margin-left: 150px;
+}
+.background-autor-2 {
+    color: #c25be9;
+    position: absolute;
+    font-size: 6em;
+    left: 0;
+    bottom: 250px;
+    line-height: 1;
+    white-space: nowrap;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    opacity: .15;
+    font-style: italic;
+    margin-left: 30px;
+}
