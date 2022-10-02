@@ -1,0 +1,110 @@
+#col-left{
+   
+}
+
+#col-middle{
+    display:flex;
+    align-items: center;
+
+    
+}
+
+#col-right{
+    margin-left: 25px;
+    width: fit-content;
+}
+
+.pc-components{
+    width: 600px;
+    columns: 1;
+}
+
+.col-2{
+    width: 350px;
+}
+
+.col-2>img{
+    width: 300px;
+    height: 300px;
+}
+
+h3{
+    font-size: 15px;
+}
+
+h2{
+    font-size: 25px;
+}
+
+#total-price{
+    display:inline-block;
+    align-content: center;
+    justify-content: center;
+    width: 250px;
+}
+
+#button{
+   width: 150px;
+   height: 50px;
+   display:flex;
+   align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    margin-left: 2px;
+    margin-right: 2px;
+    background-color: rgb(174, 128, 218);
+}
+
+#button h2{
+    color:white;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+#low-buttons{
+    
+    display:flex;
+    flex-wrap: nowrap;
+}
+
+#buttonContent{
+    
+    background-color: blueviolet;
+}
+
+#buttonContentItems{
+    margin-top: 5px;
+    margin-bottom: 15px;
+    background-color: white;
+    height: 100px;
+}
+
+#middleRow{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: inherit;
+}
+
+#middleRow h3{
+    
+    font-size: 20px;
+}
+
+.buttonImage{
+    
+    width: 100px;
+    height: 100px;
+}
+
+.card{
+    
+    background-color: transparent;
+    width: 600px;
+}
+
+.image{
+    width: 100px;
+}
+
