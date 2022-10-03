@@ -7,7 +7,7 @@ function Grid(props){
             <button onClick={() => {
                 alert('clicked');
             }}>
-                <img src={require(`./Images/icon-${props.image}.png`)} alt="icon-image" />
+                <img id="imgM10" src={require(`./Images/icon-${props.image}.png`)} alt="icon-image" />
             </button>
 
         </span>
