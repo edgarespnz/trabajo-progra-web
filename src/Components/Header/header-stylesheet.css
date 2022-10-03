@@ -16,6 +16,12 @@ img.d-inline-block.align-text-top {
     margin-right: 30px;
 }
 
+#imgHeader{
+    width: 50px;
+    aspect-ratio: auto 50 / 50;
+    height: 50px;
+}
+
 
 
 

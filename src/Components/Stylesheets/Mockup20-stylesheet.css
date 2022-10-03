@@ -1,0 +1,78 @@
+#H1M20{
+    font-size: 1.2cm;
+    color: black !important;
+    margin-left: 3.7%;
+}
+
+
+
+#spanM20{
+    color: black;
+    font-size: xx-large;
+    margin-left: 4%;
+    font-weight: 400;
+}
+
+#imgM20{
+    max-height: 16px;
+    max-width: 16px;
+    border-color: black;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.auxStar{
+    max-height: 13px;
+    max-width: 13px;
+    padding-bottom: 2.3px;
+}
+
+.score{
+    padding-bottom: 0px;
+    margin-top: 8px;
+    margin-bottom: 40px;
+}
+
+.puntaje{
+    font-size: x-large;
+    padding-right: 5px;
+}
+
+header{
+    margin-top: 10px;
+}
+
+.Username{
+    font-size: x-large;
+    font-weight: 600;
+
+}
+
+.user1{
+    margin-left: 4%;
+    max-height: 48px;
+    max-width: 48px;
+    vertical-align: middle;
+}
+
+.comentario{
+    margin-top: 20px;
+    margin-left: 7%;
+}
+
+.usuario{
+    margin-top: 40px;
+}
+
+#ContainerM20{
+    background-color: white;
+    height: 100vh;
+}
+
+#UsernameM20{
+    font-size: x-large;
+    font-weight: 600;
+    color: black;
+    padding-left: 2%;
+}
+
