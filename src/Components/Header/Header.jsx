@@ -12,7 +12,7 @@ function Header(props) {
                 <div className="container-fluid">
                     <div className = "container-left">
                     <a className="navbar-brand" href="#" >
-                            <img src={require(`./images/icon-control.png`)} class="d-inline-block align-text-top"  width = "50" height = "50" alt="imagen-de-logo" />
+                            <img id="imgHeader" src={require(`./images/icon-control.png`)} class="d-inline-block align-text-top"  width = "50" height = "50" alt="imagen-de-logo" />
                         </a>
                     </div>
 
@@ -51,19 +51,19 @@ function Header(props) {
                         <ul className="nav" id="nav-right">
                             <li className="nav-item">
                                 <a href="#">
-                                    <img className="icon-right" src={require(`./images/icon-search.png`)} class="d-inline-block align-text-top" width="25" height="25" />
+                                    <img id="imgHeader" className="icon-right" src={require(`./images/icon-search.png`)} class="d-inline-block align-text-top" width="25" height="25" />
                                 </a>
 
                             </li>
                             <li className="nav-item">
                                 <a href="#">
-                                    <img className="icon-right" src={require(`./images/icon-user.png`)} class="d-inline-block align-text-top" width="25" height="25" />
+                                    <img id="imgHeader" className="icon-right" src={require(`./images/icon-user.png`)} class="d-inline-block align-text-top" width="25" height="25" />
                                 </a>
 
                             </li>
                             <li className="nav-item">
                                 <a href="#">
-                                    <img className="icon-right" src={require(`./images/icon-cart.png`)} class="d-inline-block align-text-top" width="25" height="25" />
+                                    <img id="imgHeader" className="icon-right" src={require(`./images/icon-cart.png`)} class="d-inline-block align-text-top" width="25" height="25" />
                                 </a>
 
                             </li>
