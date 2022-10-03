@@ -30,19 +30,19 @@ label{
     margin-left: 2%;
 }
 
-input{
+#areatextM19{
     font-size: 16px;
     font-weight: 600;
     max-width: 100%;
     outline: none;
     margin-left: 2%;
-    width: 1400px;
+    width: 1300px;
 }
 
-textarea{
+#textareaM19{
     height: 150px;
     font-weight: 600;
     max-width: 100%;
     margin-left: 2%;
-    width: 1400px;
+    width: 1300px;
 }

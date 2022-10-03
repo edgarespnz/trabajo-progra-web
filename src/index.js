@@ -14,6 +14,7 @@ import Mockup21 from './Components/Mockup-21/Mockup21';
 import Mockup10 from './Components/Mockup-10/Mockup10';
 import Mockup19 from './Components/Mockup-19/Mockup19';
 import Mockup20 from './Components/Mockup-20/Mockup20';
+import Mockup23 from './Components/Mockup-23/Mockup23';
 
 
 
@@ -43,14 +44,7 @@ root.render(
         <Route path='/mockup-19' element={<Mockup19/>} />
         <Route path='/mockup-20' element={<Mockup20/>} />
         <Route path='/mockup-21' element={<Mockup21/>}/>
-
-        
-
-
-        
-
-
-
+        <Route path='/mockup-23' element={<Mockup23/>}/>
         
       
         

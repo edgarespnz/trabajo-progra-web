@@ -14,8 +14,8 @@ function Mockup_10() {
                     <button className="btnBack">Back</button>    
             </div>
         
-            <div class="row">
-                <div className="container">
+            <div class="row" id="rowM10">
+                <div className="container" id="containerM10">
                     
                         <Icons_buttons/>
 
