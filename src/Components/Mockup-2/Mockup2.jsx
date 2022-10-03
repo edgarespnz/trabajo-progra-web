@@ -25,7 +25,7 @@ function Mockup2 (){
         <div className="main-container-mockup-2">
             <div className="container-mockup-2">
                 <div className="container" id = "contenedorLogin"/>
-                    <h2>
+                    <h2 id="textlog">
                         LOG IN
                     </h2>
                     <p id="texto1">Log in with your details below to view your order</p>

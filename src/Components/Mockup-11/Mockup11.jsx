@@ -1,5 +1,5 @@
 import React from "react";
-import "./mockup11-stylesheet.css"
+import "./Mockup11-stylesheet.css"
 import Pc_Components from "./Pc_Components";
 
 import Total from "./Total";

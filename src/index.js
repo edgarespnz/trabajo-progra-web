@@ -31,16 +31,17 @@ root.render(
         <Route path='/mockup-1' element={<Mockup1/>} />
         <Route path='/mockup-2' element={<Mockup2/>}/>
         <Route path='/mockup-3' element={<Mockup3/>} />
-
         <Route path='/mockup-4' element={<Mockup4/>} />
-
-        <Route path='/mockup-21' element={<Mockup21/>}/>
-
+        <Route path='/mockup-5' element={<Mockup5/>}/>
         <Route path='/mockup-8' element={<Mockup8/>} />
-
-
         <Route path='/mockup-11' element={<Mockup11/>} />
         <Route path='/mockup-12' element={<Mockup12/>} />
+        <Route path='/mockup-21' element={<Mockup21/>}/>
+
+        
+
+
+        
       </Routes>
     </BrowserRouter>
     

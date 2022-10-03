@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Pc_Components from "../Mockup-11/Pc_Components";
-import "./mockup12-stylesheet.css"
+import "./Mockup12-stylesheet.css"
 import Total from "../Mockup-11/Total";
 import Button from "../Mockup-4/Button";
 import ButtonCardContent from "./ButtonCardContent";

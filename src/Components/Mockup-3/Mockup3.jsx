@@ -1,5 +1,5 @@
 import React from "react";
-import "./mockup3-stylesheet.css";
+import "./Mockup3-stylesheet.css";
 import Footer from "../Footer/Footer";
 
 function Mockup_3(props) {

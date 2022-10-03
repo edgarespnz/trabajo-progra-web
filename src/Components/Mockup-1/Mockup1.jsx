@@ -3,6 +3,7 @@ import "./Mockup1-stylesheet.css";
 import { useNavigate } from "react-router-dom"
 
 
+
 function Mockup1(){
 
     const [firstname, setFirstName] = useState("")
@@ -23,7 +24,7 @@ function Mockup1(){
         <div className="main-container-mockup-1">
             <div className="container-mockup-1">
                 <div className="container" id = "contenedorLogin"/>
-                    <h2>
+                    <h2 id="textregis">
                         REGISTER
                     </h2>
                     
