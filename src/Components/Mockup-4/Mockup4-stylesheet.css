@@ -46,10 +46,11 @@
 #sideContent{
     border-radius: 10px;
     background-color: white;
-    height: 800px;
+    height: 8700px;
     width: 800px;
     max-width: 1200px;
 }
+
 h2{
     color: black;
 }

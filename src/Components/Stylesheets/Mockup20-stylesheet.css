@@ -38,7 +38,7 @@
     padding-right: 5px;
 }
 
-header{
+#UsuarioM20{
     margin-top: 10px;
 }
 
@@ -58,6 +58,7 @@ header{
 .comentario{
     margin-top: 20px;
     margin-left: 7%;
+    margin-bottom: 30px;
 }
 
 .usuario{

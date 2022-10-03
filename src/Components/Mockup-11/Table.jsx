@@ -5,7 +5,7 @@ function Table(props){
     return(
         <div className="row">
             <div className="components-summary">
-                    <div className="image">
+                    <div className="image" id="ComponentImageM11">
                     <img src={require(`./images/product-${props.image}.png`)} alt="component-img" />
                     </div>
                     <div className="name">

@@ -4,11 +4,11 @@ span{
     text-align: center;
 }
 
-.container{
+#containerM10{
     align-items: baseline;
 }
 
-.row{
+#rowM10{
     margin-top: 50px;
     margin-bottom: 25px;
 }
@@ -41,7 +41,7 @@ span{
 .icon_buttons{
     margin: 30px;
     width: 100%;
-    margin-left: 15%;
+    margin-left: 11%;
     margin-right: 15%;
 
 }
@@ -50,7 +50,7 @@ span{
     margin: 30px;
 }
 
-img{
+#imgM10{
     height: 300px;
     border: none;
 }

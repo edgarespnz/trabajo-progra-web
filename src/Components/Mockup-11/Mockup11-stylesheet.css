@@ -88,3 +88,8 @@ button.btn.btn-checkout {
 .title{
     color:white;
 }
+
+#pc-components-content{
+    width: fit-content;
+    column-count: 2;
+}
