@@ -17,11 +17,20 @@ function Mockup_20(){
             </div>
             <hr size="2px" color="gray" width="98%"></hr>
 
-            <header className="usuario" >
+
+            <header className="usuario" id="UsuarioM20">
                 <img className="user1" src={require(`./Images/usuario1.png`)} alt="usuario1"/>
                 <span className="Username" id="UsernameM20">Emilio Berrocal</span>
             </header>
             <div className="comentario">Una PC bien construida con un case de alta calidad.</div>
+
+            <hr size="2px" color="gray" width="98%"></hr>
+
+            <header className="usuario" id="UsuarioM20">
+                <img className="user1" src={require(`./Images/usuario1.png`)} alt="usuario1"/>
+                <span className="Username" id="UsernameM20">Emilio Berrocal</span>
+            </header>
+            <div className="comentario">Muy buena atención.</div>
         </div>
     );
 
