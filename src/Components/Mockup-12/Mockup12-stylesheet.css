@@ -3,20 +3,18 @@
 }
 
 #col-middle{
-    display:flex;
-    align-items: center;
-
-    
+    display:flex !important;
+    align-items: center !important;
 }
 
 #col-right{
-    margin-left: 25px;
-    width: fit-content;
+    margin-left: 25px !important;
+    width: fit-content !important;
 }
 
 .pc-components{
-    width: 600px;
-    columns: 1;
+    width: 600px !important;
+    columns: 1 !important;
 }
 
 .col-2{
@@ -99,9 +97,9 @@ h2{
 }
 
 .card{
-    
+    margin-left: 0px !important;
     background-color: transparent;
-    width: 600px;
+    width: 600px !important;
 }
 
 .image{

@@ -27,7 +27,7 @@ function Mockup_11() {
                     <div className="imageColumn">
                         <img src={require(`./images/product-case2.png`)} alt="cpu-gamer" />
                     </div>
-                    <div className="components">
+                    <div className="components" id="components-content">
                         <div className="title">
                             <h2>Components</h2>
                         </div>

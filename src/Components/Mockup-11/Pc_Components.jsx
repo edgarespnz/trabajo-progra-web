@@ -3,7 +3,7 @@ import Table from "./Table";
 
 function Pc_Components(){
     return(
-        <div className="pc-components">
+        <div className="pc-components" id="pc-components-content">
                             <Table
                                 image="procesador"
                                 name="INTEL CORE I7-12700F 12-CORE "
