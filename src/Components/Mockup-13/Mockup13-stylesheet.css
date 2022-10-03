@@ -1,0 +1,122 @@
+.col{
+    width:100vw;
+    height:100vh;
+}
+
+
+/*payment buttons*/
+
+.paymentMethods{
+    border:0px;
+    border-bottom: 1px;
+    border-style: solid;
+    border-color: black;
+}
+.btn.btn-primary.btn-lg{
+    width: 200px;
+    margin:5px;
+}
+
+#colLeft{
+    display:flex;
+    flex-direction: column;
+    background-color: white;
+    height: fit-content;
+}
+
+#colRight{
+    background-color: black;
+    height: inherit;
+    
+}
+
+/*divider css*/
+.strike {
+    display: block;
+    text-align: center;
+    overflow: hidden;
+    white-space: nowrap; 
+}
+
+.strike > span {
+    position: relative;
+    display: inline-block;
+}
+
+.strike > span:before,
+.strike > span:after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    width: 9999px;
+    height: 1px;
+    background: black;
+}
+
+.strike > span:before {
+    right: 100%;
+    margin-right: 15px;
+}
+
+.strike > span:after {
+    left: 100%;
+    margin-left: 15px;
+}
+
+/*end divider css*/
+
+/*contact information*/
+
+.userImage{
+    background-color: blueviolet;
+    width: 50px;
+    height: 50px;
+}
+.title-contact{
+    text-align: left;
+}
+/*end contact information*/
+
+
+
+/*Shipping Address*/
+.shipping-forms{
+    margin-top: 35px;
+}
+
+.shipping-title{
+    text-align: left;
+    color:rgb(119, 119, 119);
+}
+
+.form-group{
+    margin-bottom: 15px;
+}
+
+label{
+    margin: 10px;
+}
+
+.form-row-names{
+    display:flex;
+}
+
+.form-control{
+    margin-bottom: 15px;
+}
+
+#cityStateZip{
+    display:flex;
+}
+/*end Shipping Adress*/
+
+/*right col*/
+
+.components-summary {
+    width: 100%;
+}
+div#colRight {
+    display: flex;
+    flex-direction: column;
+}
+/*end right col*/
