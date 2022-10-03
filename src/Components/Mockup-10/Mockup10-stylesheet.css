@@ -1,0 +1,70 @@
+span{
+    color:white;
+    font-size: xx-large;
+    text-align: center;
+
+}
+
+
+.container{
+    align-items: baseline;
+}
+
+.row{
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+
+.btnBack{
+    font-weight: 600;
+    font-size: 20px;
+    color:black;
+    border-radius: 5px;
+    border: none;
+    width: 200px;
+    margin: 20px;
+    height: 30px;
+    float: right;
+}    
+
+.btnNext{
+    font-weight: 600;
+    font-size: 20px;
+    background-color:rgb(177, 83, 231);
+    color:white;
+    border-radius: 5px;
+    border: none;
+    width: 200px;
+    margin: 20px;
+    height: 30px;
+    float: right;
+}
+
+.icon_buttons{
+    margin: 30px;
+    width: 100%;
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+
+.posEsp{
+    margin: 30px;
+}
+
+img{
+    height: 300px;
+    border: none;
+}
+
+button{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+.container1 {
+    width: 100%;
+}

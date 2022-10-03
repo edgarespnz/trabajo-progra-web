@@ -1,5 +1,5 @@
 import React from "react";
-import "./mockup11-stylesheet.css"
+import "./Mockup11-stylesheet.css"
 
 function Table(props){
     return(
