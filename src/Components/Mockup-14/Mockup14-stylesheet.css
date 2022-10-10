@@ -1,0 +1,76 @@
+.col-5{
+    width: 700px;
+   
+}
+
+.btnBack{
+    width: 100px;
+    height: 50px;
+}
+
+.btn.btn-checkout{
+    width: 100px;
+    height: 50px;
+}
+
+.btn.btn-checkout>img{
+    width: 25px;
+    height: 25px;
+}
+
+
+#buttonContentItems{
+    width: 800px ;
+}
+
+
+.order{
+    background-color: white;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    width: 200px;
+    height: 70px;
+   
+}
+
+.row img{
+    width: 100px;
+    height: 100px;
+}
+
+#col-left{
+    justify-content:first baseline;
+    display: flex;
+    flex-direction: column;
+}
+
+#item-component-mockup14{
+   
+    width: 1000px;
+    background-color: white;
+    margin-top: 15px;
+    
+}
+
+
+#HistoryContent{
+    font-size: large;
+    font-weight: 600;
+    background-color: white;
+    display:flex;
+    align-items: center;
+    justify-content:center;
+    
+}
+
+#pricing{
+    margin-right: 25px;
+}
+
+#buttonTitle{
+    color:black;
+}
